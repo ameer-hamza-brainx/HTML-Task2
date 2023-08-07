@@ -40,6 +40,7 @@ body{
     gap: 10px;
     margin-top: 20px;
     padding-bottom: 30px;
+    flex-wrap: wrap;
 }
 .flex-container img{
     border: 5px solid purple;
